@@ -1,0 +1,15 @@
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\bin\Debug\EbebeynPcKontrol.exe.config
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\bin\Debug\EbebeynPcKontrol.exe
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\bin\Debug\EbebeynPcKontrol.pdb
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.csprojResolveAssemblyReference.cache
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.HomePage.resources
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.Properties.Resources.resources
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.csproj.GenerateResource.cache
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.csproj.CoreCompileInputs.cache
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.exe
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.pdb
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.AnaEkran.resources
+c:\users\volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.Uye.resources
+C:\Users\Volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Volkan\source\repos\EbebeynPcKontrol\EbebeynPcKontrol\obj\Debug\EbebeynPcKontrol.csproj.CopyComplete
